@@ -152,7 +152,6 @@ GO
 -- Step 9: FIFO Dave Ballantyne’s Solution
 -- =====================================================      
 ;
-;
 WITH   
   GetMaxID
   AS (
